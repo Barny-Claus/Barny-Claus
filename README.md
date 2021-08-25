@@ -9,11 +9,6 @@
 
 ## ¡Soy Gamaliel Rodriguez! Estudiante del Tecnológico de Tijuana
 
-* Fanático de resolver problemas
-* Entusiasta de la lógica 
-* Casi un ingeniero en sistemas 
-* Escritor novato entre los novatos
-* Tomé 8 materias :"D
 
 
 |       | Lunes                              | Martes                             | Miércoles                          | Jueves                             | Viernes                           |
