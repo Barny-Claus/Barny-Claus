@@ -1,49 +1,30 @@
 ![](https://images.cooltext.com/5548655.png)
-
 <a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
 
-### Hola colegas 👋
+# Buenas, buenas 
+
+## Me alegro que visites mi perfil, pero no encontrarás cosas ortodoxas aquí;
+#### _"Abandonad toda esperanza de sentido aquel que en busca de codigo recurre a este perfil"_
 
 
-Gusto de visitar el perfil del docente 👨‍🏫 ✨ René Solis ✨.
+## ¡Soy Gamaliel Rodriguez! Estudiante del Tecnológico de Tijuana
 
-Atendiendo estudiantes de PFLC y TecTijuana:
-
-- 🔭 En bachillerato con informática 1 y 2 básica 
-- 🖥 ... y capacitación al trabajo con ITICS
-- 📲 Diversas materias el TecNM para ISC, LI y ITICS
-- 🤔 Considero GitHub la herramienta excelente para el nuevo ingeniero.
-- 💬 Asimismo los docentes del ambas escuelas son invitados para usarlo 
-- 📫 Todo inicia con activarlo via GitHub Starter pack son unos 70 dlls de beca por comprobar con correo institucional 
-- 😄 Y con Github Classroom apoyar al estudiante para ser efectivo en lo requerido para producir resultados al momento y diversificar en los sistemas desktop, cloud computing y embedded 
-- ⚡ Sabias: Soy exalumno de la PFLC y del TEC !
-
-Licenciamiento para los cursos:
-- Apple University Programm beca de 200 dispositivo iOS
-- Amazon Web Services AWSEducate beca de $50 dlls estudiantes y $200 dlls a 👩‍🏫 docentes 
-- Jetbrains Suite completo de beca $450 dlls
+* Fanático de resolver problemas
+* Entusiasta de la lógica 
+* Casi un ingeniero en sistemas 
+* Escritor novato entre los novatos
+* Tomé 8 materias :"D
 
 
-Inventario maker para cursos
-- Arduino clasico
-- STM32
-- RaspberryPi 
-- kit de sensores y herramientas soldar
-
-
-
-Ejemplo Tablas en MD
-
-| Sensores 	|  X 	|  Y  	|
-|----------	|:--:	|:---:	|
-| Co2      	| 20 	|  30 	|
-| temp     	| 11 	|  27 	|
-| O2       	| 22 	| 333 	|
-
-Guias:
-https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
-
-PARA CREAR TABLAS
-Cooltext.com
-
-https://www.tablesgenerator.com/markdown_tables. 
+|       | Lunes                              | Martes                             | Miércoles                          | Jueves                             | Viernes                           |
+|-------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|-----------------------------------|
+| 10:00 |                                    | Contabilidad Financiera            |                                    | Contabilidad Financiera            |                                   |
+| 11:00 |                                    | Contabilidad Financiera            |                                    | Contabilidad Financiera            |                                   |
+| 12:00 | Simulación                         | Simulación                         | Tópicos Avanzados de Programación  | Simulación                         | Tópicos Avanzados de Programación |
+| 13:00 | Tópicos Avanzados de Programación  | Simulación                         | Tópicos Avanzados de Programación  | Simulación                         | Tópicos Avanzados de Programación |
+| 14:00 | Lenguajes de Interfaz              | Lenguajes de Interfaz              | Lenguajes de Interfaz              | Lenguajes de Interfaz              |                                   |
+| 15:00 |                                    |                                    |                                    |                                    |                                   |
+| 16:00 | Desarrollo Sustentable             | Desarrollo Sustentable             | Desarrollo Sustentable             | Desarrollo Sustentable             | Desarrollo Sustentable            |
+| 17:00 | Sistemas Operativos                | Sistemas Operativos                | Sistemas Operativos                | Sistemas Operativos                |                                   |
+| 18:00 | Fundamentos de  Telecomunicaciones | Fundamentos de  Telecomunicaciones | Fundamentos de  Telecomunicaciones | Fundamentos de  Telecomunicaciones |                                   |
+| 18:00 | Taller de Bases de  Datos          | Taller de Bases de  Datos          | Taller de Bases de  Datos          | Taller de Bases de  Datos          |                                   |
