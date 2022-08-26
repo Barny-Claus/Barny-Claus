@@ -10,7 +10,7 @@
 ### 🔑 La programación mi diversión
 ### 🔑 La escritura mi pasión
 ### 🔑 Y los problemas mi día a día
-### 🔑 Resolverlos la constante de cada una
+### 🔑 Resolverlos la constante de mi vida
 
 ### _Me dedico a resolver problemas, aunque la mayor parte del tiempo yo me los generé, creo que bloquearte ante un problema es negarte un conocimiento nuevo (aunque te alargará la vida), quizá el código no sea mi mejor amigo, pero la lógica si y con ello me basta para convertirme en..._
 ![](https://images.cooltext.com/5553830.png)
